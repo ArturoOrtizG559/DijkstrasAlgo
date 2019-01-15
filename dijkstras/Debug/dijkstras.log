@@ -1,7 +1,0 @@
-﻿  dijkstras.cpp
-c:\users\saiyanispro\source\repos\dijkstras\dijkstras\dijkstras.cpp(131): warning C4018: '<': signed/unsigned mismatch
-c:\users\saiyanispro\source\repos\dijkstras\dijkstras\dijkstras.cpp(176): warning C4018: '<': signed/unsigned mismatch
-c:\users\saiyanispro\source\repos\dijkstras\dijkstras\dijkstras.cpp(238): warning C4018: '<': signed/unsigned mismatch
-c:\users\saiyanispro\source\repos\dijkstras\dijkstras\dijkstras.cpp(252): warning C4018: '<': signed/unsigned mismatch
-  dijkstras.vcxproj -> C:\Users\SaiyanisPro\source\repos\dijkstras\Debug\dijkstras.exe
-  dijkstras.vcxproj -> C:\Users\SaiyanisPro\source\repos\dijkstras\Debug\dijkstras.pdb (Partial PDB)
