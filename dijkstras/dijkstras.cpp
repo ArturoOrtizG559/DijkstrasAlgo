@@ -45,7 +45,7 @@ struct Graph {
 	void addVert(vector<Node*>&);
 
 };
-
+// custom minHeap
 void minHeapify(deque<Node*> &a, int i, int hs) {
 	int l = (i * 2) + 1;
 	int r = (i * 2) + 2;
